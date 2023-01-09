@@ -1,4 +1,7 @@
 # WebAutomation_framework
 
 Steps to run logger file
-1. python3 test.py After running the code, It will create logs files It is very useful for debugging the code
+1. git clone https://github.com/vishal-12/WebAutomation_framework.git
+2. python3 test.py 
+
+After running the code, it will create logs directory on the current folder.
